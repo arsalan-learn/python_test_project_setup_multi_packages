@@ -1,0 +1,2 @@
+def legacy_function():
+    print("This is legacy code")

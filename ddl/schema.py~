@@ -1,0 +1,2 @@
+def define_schema():
+    print("Defining schema")

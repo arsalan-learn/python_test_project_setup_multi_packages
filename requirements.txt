@@ -1,0 +1,4 @@
+# Known CVEs associated with these versions
+Flask==1.0        # CVE-2018-1000656
+requests==2.19.1  # CVE-2018-18074
+PyYAML==5.1       # CVE-2019-20477

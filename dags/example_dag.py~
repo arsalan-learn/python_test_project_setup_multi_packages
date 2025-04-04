@@ -1,0 +1,2 @@
+def run_dag():
+    print("Running DAG")

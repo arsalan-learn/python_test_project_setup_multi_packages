@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/dags/example_dag.py
+src/ddl/schema.py
+src/deprecated/old_code.py
+src/my_app.egg-info/PKG-INFO
+src/my_app.egg-info/SOURCES.txt
+src/my_app.egg-info/dependency_links.txt
+src/my_app.egg-info/top_level.txt
